@@ -3,7 +3,7 @@ This project allows you to accurately measure distances with precision and effic
 # Introduction
 This project focuses on building a distance measurement system using an ATmega32 microcontroller and the HC-SR04 ultrasonic sensor. The goal is to provide a reliable and efficient solution for measuring distances.
 
-Specifications
+# Specifications
 Key specifications and features of the Distance Measurement System with HC-SR04:
 
 Microcontroller: Utilizes the ATmega32 microcontroller with an 8MHz clock frequency for accurate and high-speed operation.
